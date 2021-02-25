@@ -2,3 +2,6 @@
 
 ## Solution1
 In-place: expensive
+
+# Solution2
+New matrix
