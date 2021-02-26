@@ -15,7 +15,7 @@ Time complexity: O(n)
 Space complexity: O(1)
 
 ## Solution3
-Use a ```bool``` vector
+Make use of a ```bool``` vector
 
 Time complexity: O(n)
 
