@@ -3,3 +3,7 @@
 ## Solution1
 
 Recursive
+
+## Solution2
+
+Iterative
