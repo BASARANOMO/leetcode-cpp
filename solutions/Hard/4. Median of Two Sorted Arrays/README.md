@@ -3,3 +3,7 @@
 ## Solution1
 
 Like in merge sort
+
+## Solution2
+
+Binary search
