@@ -15,3 +15,5 @@ BFS
 Disjoint-set data structure
 
 Also called: union-find data structure / merge-find set
+
+[Disjoint-set data structure presentation in Chinese](https://oi-wiki.org/ds/dsu/)
