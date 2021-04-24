@@ -1,2 +1,122 @@
 # LeetCode Solutions in C++
 Provide all my solutions and explanations for LeetCode coding problems.
+
+## Categories
+
+### Stack
+
+[150. Evaluate Reverse Polish Notation](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/150.%20Evaluate%20Reverse%20Polish%20Notation)
+
+[1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)
+
+### Monotone stack
+
+[503. Next Greater Element II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/503.%20Next%20Greater%20Element%20II)
+
+[556. Next Greater Element III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/556.%20Next%20Greater%20Element%20III)
+
+### Dynamic programming
+
+[91. Decode Ways](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/91.%20Decode%20Ways)
+
+[213. House Robber II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/213.%20House%20Robber%20II)
+
+[322. Coin Change](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/322.%20Coin%20Change)
+
+[338. Counting Bits](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/338.%20Counting%20Bits)
+
+[416. Partition Equal Subset Sum](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/416.%20Partition%20Equal%20Subset%20Sum)
+
+[518. Coin Change 2](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/518.%20Coin%20Change%202)
+
+[1143. Longest Common Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1143.%20Longest%20Common%20Subsequence)
+
+### backtracking / DFS
+
+[39. Combination Sum](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/39.%20Combination%20Sum)
+
+[90. Subsets II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/90.%20Subsets%20II)
+
+[200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
+
+### Sliding window
+
+[1052. Grumpy Bookstore Owner](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1052.%20Grumpy%20Bookstore%20Owner)
+
+### Binary search
+
+[33. Search in Rotated Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array)
+
+[81. Search in Rotated Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II)
+
+[153. Find Minimum in Rotated Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
+
+[154. Find Minimum in Rotated Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)
+
+[173. Binary Search Tree Iterator](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/173.%20Binary%20Search%20Tree%20Iterator)
+
+[300. Longest Increasing Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/300.%20Longest%20Increasing%20Subsequence)
+
+### Greedy
+
+[781. Rabbits in Forest](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/781.%20Rabbits%20in%20Forest)
+
+### Sorting
+
+[179. Largest Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/179.%20Largest%20Number)
+
+[220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
+
+### Pointer
+
+[80. Remove Duplicates from Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
+
+[264. Ugly Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/264.%20Ugly%20Number%20II)
+
+### Presum
+
+[304. Range Sum Query 2D - Immutable](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
+
+[560. Subarray Sum Equals K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/560.%20Subarray%20Sum%20Equals%20K)
+
+### Set
+
+[220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
+
+### List
+
+[2. Add Two Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/2.%20Add%20Two%20Numbers)
+
+[61. Rotate List](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/61.%20Rotate%20List)
+
+[82. Remove Duplicates from Sorted List II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II)
+
+[92. Reverse Linked List II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/92.%20Reverse%20Linked%20List%20II)
+
+### Priority queue
+
+[264. Ugly Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/264.%20Ugly%20Number%20II)
+
+### Union Find
+
+[200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
+
+### Tree
+
+[94. Binary Tree Inorder Traversal](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/94.%20Binary%20Tree%20Inorder%20Traversal)
+
+[98. Validate Binary Search Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/98.%20Validate%20Binary%20Search%20Tree)
+
+[208. Implement Trie (Prefix Tree)](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/208.%20Implement%20Trie%20(Prefix%20Tree))
+
+### Hash table
+
+[974. Subarray Sums Divisible by K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K)
+
+### Simulation
+
+[59. Spiral Matrix II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/59.%20Spiral%20Matrix%20II)
+
+### Some classic questions
+
+Manacher's algorithm: [647. Palindromic Substrings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/647.%20Palindromic%20Substrings)
