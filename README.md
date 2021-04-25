@@ -1,4 +1,5 @@
 # LeetCode Solutions in C++
+
 Provide all my solutions and explanations for LeetCode coding problems.
 
 ## Categories
@@ -28,6 +29,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [377. Combination Sum IV](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/377.%20Combination%20Sum%20IV)
 
 [416. Partition Equal Subset Sum](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/416.%20Partition%20Equal%20Subset%20Sum)
+
+[474. Ones and Zeroes](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/474.%20Ones%20and%20Zeroes)
 
 [518. Coin Change 2](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/518.%20Coin%20Change%202)
 
