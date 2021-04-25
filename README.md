@@ -114,7 +114,7 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [208. Implement Trie (Prefix Tree)](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/208.%20Implement%20Trie%20(Prefix%20Tree))
 
-[897. Increasing Order Search Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/897.%20Increasing20Order%20Search%20Tree)
+[897. Increasing Order Search Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/897.%20Increasing%20Order%20Search%20Tree)
 
 ### Hash table
 
