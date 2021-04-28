@@ -78,6 +78,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [264. Ugly Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/264.%20Ugly%20Number%20II)
 
+[633. Sum of Square Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/633.%20Sum%20of%20Square%20Numbers)
+
 ### Presum
 
 [304. Range Sum Query 2D - Immutable](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
