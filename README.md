@@ -36,7 +36,7 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1143. Longest Common Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1143.%20Longest%20Common%20Subsequence)
 
-### backtracking / DFS
+### Backtracking / DFS
 
 [39. Combination Sum](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/39.%20Combination%20Sum)
 
