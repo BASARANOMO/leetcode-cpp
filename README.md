@@ -118,6 +118,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [897. Increasing Order Search Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/897.%20Increasing%20Order%20Search%20Tree)
 
+[938. Range Sum of BST](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/938.%20Range%20Sum%20of%20BST)
+
 ### Hash table
 
 [974. Subarray Sums Divisible by K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K)
