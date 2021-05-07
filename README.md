@@ -122,7 +122,13 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Hash table
 
+[137. Single Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/137.%20Single%20Number%20II)
+
 [974. Subarray Sums Divisible by K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K)
+
+### Bitwise
+
+[137. Single Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/137.%20Single%20Number%20II)
 
 ### Simulation
 
