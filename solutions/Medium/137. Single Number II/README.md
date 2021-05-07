@@ -34,7 +34,3 @@ When we traverse to a new integer `x`:
 | 01 | 1 | 10 |
 | 10 | 0 | 10 |
 | 10 | 1 | 00 |
-
-which is equal to:
-
-$$a_i = a_i^'$$
