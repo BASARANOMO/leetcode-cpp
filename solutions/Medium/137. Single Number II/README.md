@@ -18,7 +18,7 @@ We want to optimize the solution 2. Here we use two numbers `a` and `b`, and the
 
 Here is the truth table:
 
-| `(a<sub>i</sub> b<sub>i</sub>)` | count of `1` on the `i`-th bit |
+| <code>(a<sub>i</sub> b<sub>i</sub>)<code> | count of `1` on the `i`-th bit |
 | :------------- | :------------- |
 | 00 | 0 |
 | 01 | 1 |
