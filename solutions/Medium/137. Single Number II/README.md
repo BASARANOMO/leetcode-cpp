@@ -34,3 +34,7 @@ When we traverse to a new integer `x`:
 | 01 | 1 | 10 |
 | 10 | 0 | 10 |
 | 10 | 1 | 00 |
+
+### Solution4
+
+Optimization of solution 3
