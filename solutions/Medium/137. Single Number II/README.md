@@ -37,6 +37,4 @@ When we traverse to a new integer `x`:
 
 which is equal to:
 
-<div class="math">
-a_i = a_i^'
-</div>
+$$a_i = a_i^'$$
