@@ -52,6 +52,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [33. Search in Rotated Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array)
 
+[34. Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
 [81. Search in Rotated Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II)
 
 [153. Find Minimum in Rotated Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
