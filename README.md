@@ -40,6 +40,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [39. Combination Sum](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/39.%20Combination%20Sum)
 
+[47. Permutations II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/47.%20Permutations%20II)
+
 [90. Subsets II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/90.%20Subsets%20II)
 
 [200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
@@ -52,7 +54,7 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [33. Search in Rotated Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array)
 
-[34. Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+[34. Find First and Last Position of Element in Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 
 [81. Search in Rotated Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II)
 
