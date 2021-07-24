@@ -50,6 +50,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1052. Grumpy Bookstore Owner](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1052.%20Grumpy%20Bookstore%20Owner)
 
+[1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
+
 ### Binary search
 
 [33. Search in Rotated Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array)
@@ -65,6 +67,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [173. Binary Search Tree Iterator](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/173.%20Binary%20Search%20Tree%20Iterator)
 
 [300. Longest Increasing Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/300.%20Longest%20Increasing%20Subsequence)
+
+[1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
 
 ### Greedy
 
@@ -89,6 +93,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [304. Range Sum Query 2D - Immutable](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
 
 [560. Subarray Sum Equals K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/560.%20Subarray%20Sum%20Equals%20K)
+
+[1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
 
 ### Set
 
