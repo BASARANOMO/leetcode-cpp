@@ -2,4 +2,4 @@
 
 ## Solution
 
-Finite state machine
+Finite-state machine
