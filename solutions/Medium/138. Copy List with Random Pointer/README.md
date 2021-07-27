@@ -7,3 +7,7 @@ Backtracking + hash table
 ## Solution 2
 
 Iteration
+
+## Solution 3
+
+Iteration + hash table

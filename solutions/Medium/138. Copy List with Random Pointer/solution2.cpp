@@ -16,7 +16,6 @@ public:
 
 class Solution {
 public:
-    unordered_map<Node*, Node*> cachedNode;
     Node* copyRandomList(Node* head) {
         if (head == nullptr) return nullptr;
         for (Node* node = head; node != nullptr; node = node->next->next) {
