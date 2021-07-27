@@ -44,6 +44,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [90. Subsets II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/90.%20Subsets%20II)
 
+[138. Copy List with Random Pointer](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/138.%20Copy%20List%20with%20Random%20Pointer)
+
 [200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
 
 ### Sliding window
