@@ -136,6 +136,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [938. Range Sum of BST](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/938.%20Range%20Sum%20of%20BST)
 
+[1104. Path In Zigzag Labelled Binary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree)
+
 ### Hash table
 
 [137. Single Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/137.%20Single%20Number%20II)
