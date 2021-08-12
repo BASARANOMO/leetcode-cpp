@@ -28,6 +28,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [377. Combination Sum IV](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/377.%20Combination%20Sum%20IV)
 
+[413. Arithmetic Slices](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/413.%20Arithmetic%20Slices)
+
 [416. Partition Equal Subset Sum](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/416.%20Partition%20Equal%20Subset%20Sum)
 
 [474. Ones and Zeroes](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/474.%20Ones%20and%20Zeroes)
