@@ -14,7 +14,7 @@ public:
                 auto it = f[j].find(diff);
                 int cnt = it == f[j].end() ? 0 : it->second;
                 res += cnt;
-                f[i][diff] = cnt + 1;
+                f[i][diff] += cnt + 1;
             }
         }
         return res;
