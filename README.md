@@ -32,6 +32,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [416. Partition Equal Subset Sum](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/416.%20Partition%20Equal%20Subset%20Sum)
 
+[446. Arithmetic Slices II - Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/446.%20Arithmetic%20Slices%20II%20-%20Subsequence)
+
 [474. Ones and Zeroes](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/474.%20Ones%20and%20Zeroes)
 
 [518. Coin Change 2](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/518.%20Coin%20Change%202)
