@@ -38,6 +38,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [518. Coin Change 2](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/518.%20Coin%20Change%202)
 
+[576. Out of Boundary Paths](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/576.%20Out%20of%20Boundary%20Paths)
+
 [1143. Longest Common Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1143.%20Longest%20Common%20Subsequence)
 
 ### Backtracking / DFS
