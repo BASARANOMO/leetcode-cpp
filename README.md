@@ -128,6 +128,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [264. Ugly Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/264.%20Ugly%20Number%20II)
 
+[295. Find Median from Data Stream](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/295.%20Find%20Median%20from%20Data%20Stream)
+
 ### Union Find
 
 [200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
