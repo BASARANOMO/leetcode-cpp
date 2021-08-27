@@ -84,6 +84,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [781. Rabbits in Forest](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/781.%20Rabbits%20in%20Forest)
 
+[881. Boats to Save People](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/881.%20Boats%20to%20Save%20People)
+
 ### Sorting
 
 [179. Largest Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/179.%20Largest%20Number)
