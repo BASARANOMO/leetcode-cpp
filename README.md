@@ -40,6 +40,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [576. Out of Boundary Paths](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/576.%20Out%20of%20Boundary%20Paths)
 
+[787. Cheapest Flights Within K Stops](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/787.%20Cheapest%20Flights%20Within%20K%20Stops)
+
 [1143. Longest Common Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1143.%20Longest%20Common%20Subsequence)
 
 ### Backtracking / DFS
