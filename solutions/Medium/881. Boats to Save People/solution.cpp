@@ -7,7 +7,7 @@ public:
         sort(people.begin(), people.end());
         int left = 0, right = people.size() - 1;
         int res = 0;
-        while (right > left) {
+        while (right >= left) {
             if (people[left] + people[right] > limit) {
                 right--;
             } else {
