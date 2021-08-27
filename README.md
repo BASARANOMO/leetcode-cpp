@@ -96,6 +96,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [264. Ugly Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/264.%20Ugly%20Number%20II)
 
+[295. Find Median from Data Stream](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/295.%20Find%20Median%20from%20Data%20Stream)
+
 [633. Sum of Square Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/633.%20Sum%20of%20Square%20Numbers)
 
 [443. String Compression](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/443.%20String%20Compression)

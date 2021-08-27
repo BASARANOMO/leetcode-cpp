@@ -6,3 +6,4 @@ Priority queue
 
 ## Solution2
 
+Two pointers
