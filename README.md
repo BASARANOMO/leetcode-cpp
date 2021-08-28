@@ -40,6 +40,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [518. Coin Change 2](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/518.%20Coin%20Change%202)
 
+[526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
+
 [576. Out of Boundary Paths](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/576.%20Out%20of%20Boundary%20Paths)
 
 [787. Cheapest Flights Within K Stops](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/787.%20Cheapest%20Flights%20Within%20K%20Stops)
@@ -57,6 +59,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [138. Copy List with Random Pointer](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/138.%20Copy%20List%20with%20Random%20Pointer)
 
 [200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
+
+[526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
 
 [797. All Paths From Source to Target](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/797.%20All%20Paths%20From%20Source%20to%20Target)
 
@@ -167,6 +171,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Bitwise
 
 [137. Single Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/137.%20Single%20Number%20II)
+
+[526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
 
 ### Simulation
 
