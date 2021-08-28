@@ -8,4 +8,4 @@ Brute force
 
 Count the number of occurrences of each number
 
-Time complexity: O(1)
+Time complexity: O(n)
