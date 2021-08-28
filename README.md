@@ -170,6 +170,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [59. Spiral Matrix II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/59.%20Spiral%20Matrix%20II)
 
+[1646. Get Maximum in Generated Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1646.%20Get%20Maximum%20in%20Generated%20Array)
+
 ### Manhattan Distance
 
 [789. Escape The Ghosts](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/789.%20Escape%20The%20Ghosts)
