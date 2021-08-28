@@ -8,6 +8,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [150. Evaluate Reverse Polish Notation](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/150.%20Evaluate%20Reverse%20Polish%20Notation)
 
+[541. Reverse String II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/541.%20Reverse%20String%20II)
+
 [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)
 
 ### Monotone stack
@@ -169,6 +171,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Simulation
 
 [59. Spiral Matrix II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/59.%20Spiral%20Matrix%20II)
+
+[541. Reverse String II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/541.%20Reverse%20String%20II)
 
 [1646. Get Maximum in Generated Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1646.%20Get%20Maximum%20in%20Generated%20Array)
 
