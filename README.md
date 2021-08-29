@@ -204,6 +204,6 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [789. Escape The Ghosts](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/789.%20Escape%20The%20Ghosts)
 
-### Some classic questions
+### Unclassified
 
 Manacher's algorithm: [647. Palindromic Substrings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/647.%20Palindromic%20Substrings)
