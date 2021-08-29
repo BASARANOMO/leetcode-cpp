@@ -48,7 +48,15 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [787. Cheapest Flights Within K Stops](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/787.%20Cheapest%20Flights%20Within%20K%20Stops)
 
+[1137. N-th Tribonacci Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1137.%20N-th%20Tribonacci%20Number)
+
 [1143. Longest Common Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1143.%20Longest%20Common%20Subsequence)
+
+### Exponentiation by squaring
+
+[552. Student Attendance Record II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/552.%20Student%20Attendance%20Record%20II)
+
+[1137. N-th Tribonacci Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1137.%20N-th%20Tribonacci%20Number)
 
 ### Backtracking / DFS
 
