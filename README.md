@@ -54,7 +54,7 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Exponentiation by squaring
 
-[50. Pow(x, n)](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/50.%20Pow(x,%20n))
+[50. Pow(x, n)](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/50.%20Pow(x%2C%20n))
 
 [552. Student Attendance Record II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/552.%20Student%20Attendance%20Record%20II)
 
