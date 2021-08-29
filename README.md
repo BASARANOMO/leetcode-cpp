@@ -42,6 +42,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
 
+[552. Student Attendance Record II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/552.%20Student%20Attendance%20Record%20II)
+
 [576. Out of Boundary Paths](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/576.%20Out%20of%20Boundary%20Paths)
 
 [787. Cheapest Flights Within K Stops](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/787.%20Cheapest%20Flights%20Within%20K%20Stops)
@@ -61,6 +63,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
 
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
+
+[552. Student Attendance Record II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/552.%20Student%20Attendance%20Record%20II)
 
 [797. All Paths From Source to Target](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/797.%20All%20Paths%20From%20Source%20to%20Target)
 
