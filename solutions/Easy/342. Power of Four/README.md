@@ -11,3 +11,5 @@ If integer `n` is a power of four, then only the highest bit of its correspondin
 Bitwise operation + modulo operation
 
 If integer `n` is a power of four, the reminder of dividing it by `3` must be `1`.
+
+If integer `n` is a power of two but not a power of four, the reminder of dividing it by `3` should be `2`.
