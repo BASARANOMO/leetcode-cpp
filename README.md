@@ -102,6 +102,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [300. Longest Increasing Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/300.%20Longest%20Increasing%20Subsequence)
 
+[528. Random Pick with Weight](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/528.%20Random%20Pick%20with%20Weight)
+
 [1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
 
 ### Greedy
@@ -131,6 +133,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Presum
 
 [304. Range Sum Query 2D - Immutable](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
+
+[528. Random Pick with Weight](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/528.%20Random%20Pick%20with%20Weight)
 
 [560. Subarray Sum Equals K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/560.%20Subarray%20Sum%20Equals%20K)
 
