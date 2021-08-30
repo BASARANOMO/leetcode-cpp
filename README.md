@@ -196,6 +196,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
 
+### Difference array
+
+[1109. Corporate Flight Bookings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1109.%20Corporate%20Flight%20Bookings)
+
 ### Simulation
 
 [59. Spiral Matrix II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/59.%20Spiral%20Matrix%20II)
