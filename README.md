@@ -188,6 +188,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [231. Power of Two](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/231.%20Power%20of%20Two)
 
+[342. Power of Four](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/342.%20Power%20of%20Four)
+
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
 
 ### Simulation
