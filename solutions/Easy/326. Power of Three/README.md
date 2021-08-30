@@ -10,4 +10,4 @@ Math
 
 ## Solution3
 
-Hint: The maximum possible value of `n` is `1162261467` because `n` is of `int` type. 
+Hint: The maximum possible value of `n` is `1162261467` because `n` is of `int` type.
