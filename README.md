@@ -82,6 +82,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Sliding window
 
+[995. Minimum Number of K Consecutive Bit Flips](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)
+
 [1052. Grumpy Bookstore Owner](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1052.%20Grumpy%20Bookstore%20Owner)
 
 [1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
@@ -140,11 +142,11 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
 
-[1893. Check if All the Integers in a Range Are Covered](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
-
 ### Difference array
 
 [370. Range Addition](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/370.%20Range%20Addition)
+
+[995. Minimum Number of K Consecutive Bit Flips](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)
 
 [1094. Car Pooling](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1094.%20Car%20Pooling)
 
@@ -153,6 +155,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1674. Minimum Moves to Make Array Complementary](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary)
 
 [1854. Maximum Population Year](ttps://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1854.%20Maximum%20Population%20Year)
+
+[1893. Check if All the Integers in a Range Are Covered](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
 
 ### Set
 
@@ -167,6 +171,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [82. Remove Duplicates from Sorted List II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II)
 
 [92. Reverse Linked List II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/92.%20Reverse%20Linked%20List%20II)
+
+### Queue
+
+[995. Minimum Number of K Consecutive Bit Flips](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)
 
 ### Priority queue
 
