@@ -198,6 +198,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Difference array
 
+[370. Range Addition](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/370.%20Range%20Addition)
+
 [1109. Corporate Flight Bookings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1109.%20Corporate%20Flight%20Bookings)
 
 ### Simulation
