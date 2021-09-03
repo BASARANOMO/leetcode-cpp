@@ -120,6 +120,12 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
 
+[17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
+
+### Quicksort
+
+[17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
+
 ### Pointer
 
 [80. Remove Duplicates from Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
@@ -185,6 +191,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [295. Find Median from Data Stream](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/295.%20Find%20Median%20from%20Data%20Stream)
 
 [1094. Car Pooling](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1094.%20Car%20Pooling)
+
+[17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
 
 ### Union Find
 
