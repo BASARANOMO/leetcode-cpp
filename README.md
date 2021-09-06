@@ -244,4 +244,6 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Unclassified
 
+Rejection sampling: [470. Implement Rand10() Using Rand7()](470. Implement Rand10() Using Rand7())
+
 Manacher's algorithm: [647. Palindromic Substrings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/647.%20Palindromic%20Substrings)
