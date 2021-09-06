@@ -106,6 +106,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [528. Random Pick with Weight](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/528.%20Random%20Pick%20with%20Weight)
 
+[1337. The K Weakest Rows in a Matrix](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
+
 [1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
 
 ### Greedy
@@ -122,7 +124,9 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
 
-### Quicksort
+### Quick select / quicksort
+
+[1337. The K Weakest Rows in a Matrix](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
 
@@ -193,6 +197,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [295. Find Median from Data Stream](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/295.%20Find%20Median%20from%20Data%20Stream)
 
 [1094. Car Pooling](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1094.%20Car%20Pooling)
+
+[1337. The K Weakest Rows in a Matrix](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
 
