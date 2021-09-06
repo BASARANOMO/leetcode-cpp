@@ -130,6 +130,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [80. Remove Duplicates from Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
 
+[165. Compare Version Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/165.%20Compare%20Version%20Numbers)
+
 [264. Ugly Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/264.%20Ugly%20Number%20II)
 
 [295. Find Median from Data Stream](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/295.%20Find%20Median%20from%20Data%20Stream)
@@ -231,6 +233,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Simulation
 
 [59. Spiral Matrix II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/59.%20Spiral%20Matrix%20II)
+
+[165. Compare Version Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/165.%20Compare%20Version%20Numbers)
 
 [541. Reverse String II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/541.%20Reverse%20String%20II)
 
