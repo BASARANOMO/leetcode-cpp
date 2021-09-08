@@ -124,11 +124,15 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1221. Split a String in Balanced Strings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings)
 
+[1833. Maximum Ice Cream Bars](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1833.%20Maximum%20Ice%20Cream%20Bars)
+
 ### Sorting
 
 [179. Largest Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/179.%20Largest%20Number)
 
 [220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
+
+[1833. Maximum Ice Cream Bars](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1833.%20Maximum%20Ice%20Cream%20Bars)
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
 
