@@ -116,6 +116,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [45. Jump Game II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/45.%20Jump%20Game%20II)
 
+[561. Array Partition I](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/561.%20Array%20Partition%20I)
+
 [781. Rabbits in Forest](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/781.%20Rabbits%20in%20Forest)
 
 [881. Boats to Save People](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/881.%20Boats%20to%20Save%20People)
