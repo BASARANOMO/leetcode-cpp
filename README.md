@@ -276,6 +276,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [59. Spiral Matrix II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/59.%20Spiral%20Matrix%20II)
 
+[68. Text Justification](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/68.%20Text%20Justification)
+
 [165. Compare Version Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/165.%20Compare%20Version%20Numbers)
 
 [541. Reverse String II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/541.%20Reverse%20String%20II)
