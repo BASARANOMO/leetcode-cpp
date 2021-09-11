@@ -110,6 +110,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [528. Random Pick with Weight](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/528.%20Random%20Pick%20with%20Weight)
 
+[875. Koko Eating Bananas](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/875.%20Koko%20Eating%20Bananas)
+
 [1337. The K Weakest Rows in a Matrix](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
 
 [1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
