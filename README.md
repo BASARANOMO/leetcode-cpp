@@ -36,6 +36,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [446. Arithmetic Slices II - Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/446.%20Arithmetic%20Slices%20II%20-%20Subsequence)
 
+[473. Matchsticks to Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/473.%20Matchsticks%20to%20Square)
+
 [474. Ones and Zeroes](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/474.%20Ones%20and%20Zeroes)
 
 [518. Coin Change 2](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/518.%20Coin%20Change%202)
@@ -71,6 +73,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [138. Copy List with Random Pointer](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/138.%20Copy%20List%20with%20Random%20Pointer)
 
 [200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
+
+[473. Matchsticks to Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/473.%20Matchsticks%20to%20Square)
 
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
 
