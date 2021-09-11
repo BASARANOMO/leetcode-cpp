@@ -110,6 +110,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
 
+[1894. Find the Student that Will Replace the Chalk](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)
+
 ### Greedy
 
 [11. Container With Most Water](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/11.%20Container%20With%20Most%20Water)
@@ -167,6 +169,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [560. Subarray Sum Equals K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/560.%20Subarray%20Sum%20Equals%20K)
 
 [1838. Frequency of the Most Frequent Element](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element)
+
+[1894. Find the Student that Will Replace the Chalk](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk)
 
 ### Difference array
 
