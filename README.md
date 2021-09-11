@@ -48,6 +48,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [576. Out of Boundary Paths](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/576.%20Out%20of%20Boundary%20Paths)
 
+[600. Non-negative Integers without Consecutive Ones](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones)
+
 [787. Cheapest Flights Within K Stops](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/787.%20Cheapest%20Flights%20Within%20K%20Stops)
 
 [1137. N-th Tribonacci Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1137.%20N-th%20Tribonacci%20Number)
@@ -243,6 +245,12 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [938. Range Sum of BST](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/938.%20Range%20Sum%20of%20BST)
 
 [1104. Path In Zigzag Labelled Binary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree)
+
+### Trie
+
+[208. Implement Trie (Prefix Tree)](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/208.%20Implement%20Trie%20(Prefix%20Tree))
+
+[600. Non-negative Integers without Consecutive Ones](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones)
 
 ### Hash table
 
