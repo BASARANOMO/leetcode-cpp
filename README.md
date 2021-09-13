@@ -10,6 +10,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [541. Reverse String II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/541.%20Reverse%20String%20II)
 
+[678. Valid Parenthesis String](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/678.%20Valid%20Parenthesis%20String)
+
 [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)
 
 ### Monotone stack
@@ -129,6 +131,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [502. IPO](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/502.%20IPO)
 
 [561. Array Partition I](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/561.%20Array%20Partition%20I)
+
+[678. Valid Parenthesis String](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/678.%20Valid%20Parenthesis%20String)
 
 [781. Rabbits in Forest](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/781.%20Rabbits%20in%20Forest)
 
