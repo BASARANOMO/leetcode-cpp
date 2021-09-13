@@ -260,6 +260,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [137. Single Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/137.%20Single%20Number%20II)
 
+[447. Number of Boomerangs](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/447.%20Number%20of%20Boomerangs)
+
 [974. Subarray Sums Divisible by K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K)
 
 ### Bitwise
