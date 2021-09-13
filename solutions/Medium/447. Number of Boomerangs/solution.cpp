@@ -12,5 +12,6 @@ public:
                 ans += m * (m - 1);
             }
         }
+        return ans;
     }
 };
