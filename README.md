@@ -148,6 +148,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
 
+[414. Third Maximum Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/414.%20Third%20Maximum%20Number)
+
 [1833. Maximum Ice Cream Bars](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1833.%20Maximum%20Ice%20Cream%20Bars)
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
@@ -207,6 +209,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Set
 
 [220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
+
+[414. Third Maximum Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/414.%20Third%20Maximum%20Number)
 
 ### List
 
