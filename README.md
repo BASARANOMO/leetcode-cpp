@@ -290,6 +290,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [165. Compare Version Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/165.%20Compare%20Version%20Numbers)
 
+[482. License Key Formatting](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/482.%20License%20Key%20Formatting)
+
 [541. Reverse String II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/541.%20Reverse%20String%20II)
 
 [551. Student Attendance Record I](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/551.%20Student%20Attendance%20Record%20I)
