@@ -148,6 +148,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
 
+[414. Third Maximum Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/414.%20Third%20Maximum%20Number)
+
 [1833. Maximum Ice Cream Bars](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1833.%20Maximum%20Ice%20Cream%20Bars)
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
@@ -207,6 +209,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Set
 
 [220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
+
+[414. Third Maximum Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/414.%20Third%20Maximum%20Number)
 
 ### List
 
@@ -287,6 +291,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [68. Text Justification](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/68.%20Text%20Justification)
 
 [165. Compare Version Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/165.%20Compare%20Version%20Numbers)
+
+[482. License Key Formatting](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/482.%20License%20Key%20Formatting)
 
 [541. Reverse String II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/541.%20Reverse%20String%20II)
 
