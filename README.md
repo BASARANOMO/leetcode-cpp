@@ -268,6 +268,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [137. Single Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/137.%20Single%20Number%20II)
 
+[260. Single Number III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/260.%20Single%20Number%20III)
+
 [447. Number of Boomerangs](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/447.%20Number%20of%20Boomerangs)
 
 [500. Keyboard Row](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/500.%20Keyboard%20Row)
@@ -276,9 +278,13 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Bitwise
 
+[136. Single Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/136.%20Single%20Number)
+
 [137. Single Number II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/137.%20Single%20Number%20II)
 
 [231. Power of Two](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/231.%20Power%20of%20Two)
+
+[260. Single Number III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/260.%20Single%20Number%20III)
 
 [342. Power of Four](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/342.%20Power%20of%20Four)
 
