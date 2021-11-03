@@ -106,6 +106,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [34. Find First and Last Position of Element in Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 
+[74. Search a 2D Matrix](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/74.%20Search%20a%202D%20Matrix)
+
 [81. Search in Rotated Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II)
 
 [153. Find Minimum in Rotated Sorted Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
