@@ -16,11 +16,15 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Monotone stack
 
+[42. Trapping Rain Water](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/42.%20Trapping%20Rain%20Water)
+
 [503. Next Greater Element II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/503.%20Next%20Greater%20Element%20II)
 
 [556. Next Greater Element III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/556.%20Next%20Greater%20Element%20III)
 
 ### Dynamic programming
+
+[42. Trapping Rain Water](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/42.%20Trapping%20Rain%20Water)
 
 [91. Decode Ways](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/91.%20Decode%20Ways)
 
@@ -163,6 +167,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Pointer
 
 [11. Container With Most Water](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/11.%20Container%20With%20Most%20Water)
+
+[42. Trapping Rain Water](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/42.%20Trapping%20Rain%20Water)
 
 [80. Remove Duplicates from Sorted Array II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
 
