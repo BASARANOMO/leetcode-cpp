@@ -238,6 +238,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [295. Find Median from Data Stream](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/295.%20Find%20Median%20from%20Data%20Stream)
 
+[407. Trapping Rain Water II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard407.%20Trapping%20Rain%20Water%20II)
+
 [502. IPO](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/502.%20IPO)
 
 [1094. Car Pooling](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1094.%20Car%20Pooling)
