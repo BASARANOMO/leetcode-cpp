@@ -118,6 +118,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [300. Longest Increasing Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/300.%20Longest%20Increasing%20Subsequence)
 
+[367. Valid Perfect Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/367.%20Valid%20Perfect%20Square)
+
 [528. Random Pick with Weight](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/528.%20Random%20Pick%20with%20Weight)
 
 [875. Koko Eating Bananas](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/875.%20Koko%20Eating%20Bananas)
@@ -323,6 +325,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Unclassified
 
 [237. Delete Node in a Linked List](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/237.%20Delete%20Node%20in%20a%20Linked%20List)
+
+Newton's method: [367. Valid Perfect Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/367.%20Valid%20Perfect%20Square)
 
 Rejection sampling: [470. Implement Rand10() Using Rand7()](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/470.%20Implement%20Rand10()%20Using%20Rand7())
 
