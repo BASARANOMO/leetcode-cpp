@@ -28,6 +28,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [91. Decode Ways](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/91.%20Decode%20Ways)
 
+[198. House Robber](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/198.%20House%20Robber)
+
 [213. House Robber II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/213.%20House%20Robber%20II)
 
 [322. Coin Change](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/322.%20Coin%20Change)
@@ -61,6 +63,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1137. N-th Tribonacci Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1137.%20N-th%20Tribonacci%20Number)
 
 [1143. Longest Common Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1143.%20Longest%20Common%20Subsequence)
+
+[1218. Longest Arithmetic Subsequence of Given Difference](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference)
 
 ### Exponentiation by squaring
 
@@ -287,6 +291,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [500. Keyboard Row](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/500.%20Keyboard%20Row)
 
 [974. Subarray Sums Divisible by K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K)
+
+[1218. Longest Arithmetic Subsequence of Given Difference](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference)
 
 ### Bitwise
 
