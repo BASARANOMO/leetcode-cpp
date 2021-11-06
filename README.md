@@ -304,6 +304,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [260. Single Number III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/260.%20Single%20Number%20III)
 
+[268. Missing Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/268.%20Missing%20Number)
+
 [342. Power of Four](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/342.%20Power%20of%20Four)
 
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
