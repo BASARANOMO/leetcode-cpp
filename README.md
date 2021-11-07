@@ -338,4 +338,6 @@ Newton's method: [367. Valid Perfect Square](https://github.com/BASARANOMO/leetc
 
 Rejection sampling: [470. Implement Rand10() Using Rand7()](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/470.%20Implement%20Rand10()%20Using%20Rand7())
 
+[598. Range Addition II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/598.%20Range%20Addition%20II)
+
 Manacher's algorithm: [647. Palindromic Substrings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/647.%20Palindromic%20Substrings)
