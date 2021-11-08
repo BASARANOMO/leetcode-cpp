@@ -220,6 +220,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1893. Check if All the Integers in a Range Are Covered](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
 
+### Traversal
+
+[299. Bulls and Cows](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/299.%20Bulls%20and%20Cows)
+
 ### Set
 
 [220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)

@@ -2,7 +2,7 @@
 
 ## Solution1
 
-Traverse
+Traversal
 
 ## Solution2
 
