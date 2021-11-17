@@ -290,6 +290,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [260. Single Number III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/260.%20Single%20Number%20III)
 
+[391. Perfect Rectangle](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/391.%20Perfect%20Rectangle)
+
 [447. Number of Boomerangs](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/447.%20Number%20of%20Boomerangs)
 
 [500. Keyboard Row](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/500.%20Keyboard%20Row)
