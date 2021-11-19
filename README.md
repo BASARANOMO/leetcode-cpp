@@ -86,6 +86,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
 
+[397. Integer Replacement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/397.%20Integer%20Replacement)
+
 [473. Matchsticks to Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/473.%20Matchsticks%20to%20Square)
 
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
@@ -141,6 +143,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [11. Container With Most Water](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/11.%20Container%20With%20Most%20Water)
 
 [45. Jump Game II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/45.%20Jump%20Game%20II)
+
+[397. Integer Replacement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/397.%20Integer%20Replacement)
 
 [502. IPO](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/502.%20IPO)
 
