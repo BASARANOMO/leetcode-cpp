@@ -112,6 +112,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Sliding window
 
+[594. Longest Harmonious Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/594.%20Longest%20Harmonious%20Subsequence)
+
 [995. Minimum Number of K Consecutive Bit Flips](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)
 
 [1052. Grumpy Bookstore Owner](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1052.%20Grumpy%20Bookstore%20Owner)
@@ -177,6 +179,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [220. Contains Duplicate III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/220.%20Contains%20Duplicate%20III)
 
 [414. Third Maximum Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/414.%20Third%20Maximum%20Number)
+
+[594. Longest Harmonious Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/594.%20Longest%20Harmonious%20Subsequence)
 
 [1833. Maximum Ice Cream Bars](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1833.%20Maximum%20Ice%20Cream%20Bars)
 
@@ -311,6 +315,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [447. Number of Boomerangs](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/447.%20Number%20of%20Boomerangs)
 
 [500. Keyboard Row](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/500.%20Keyboard%20Row)
+
+[594. Longest Harmonious Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/594.%20Longest%20Harmonious%20Subsequence)
 
 [974. Subarray Sums Divisible by K](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K)
 
