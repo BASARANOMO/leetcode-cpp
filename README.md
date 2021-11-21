@@ -82,6 +82,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [90. Subsets II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/90.%20Subsets%20II)
 
+[104. Maximum Depth of Binary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree)
+
 [138. Copy List with Random Pointer](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/138.%20Copy%20List%20with%20Random%20Pointer)
 
 [200. Number of Islands](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/200.%20Number%20of%20Islands)
@@ -103,6 +105,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [863. All Nodes Distance K in Binary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree)
 
 ### BFS
+
+[104. Maximum Depth of Binary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 
 [559. Maximum Depth of N-ary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/559.%20Maximum%20Depth%20of%20N-ary%20Tree)
 
