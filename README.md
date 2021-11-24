@@ -368,6 +368,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 Newton's method: [367. Valid Perfect Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/367.%20Valid%20Perfect%20Square)
 
+Shuffle: [384. Shuffle an Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/384.%20Shuffle%20an%20Array)
+
 Rejection sampling: [470. Implement Rand10() Using Rand7()](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/470.%20Implement%20Rand10()%20Using%20Rand7())
 
 [598. Range Addition II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/598.%20Range%20Addition%20II)
