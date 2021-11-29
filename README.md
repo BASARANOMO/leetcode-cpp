@@ -112,6 +112,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Sliding window
 
+[438. Find All Anagrams in a String](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/438.%20Find%20All%20Anagrams%20in%20a%20String)
+
 [594. Longest Harmonious Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/594.%20Longest%20Harmonious%20Subsequence)
 
 [995. Minimum Number of K Consecutive Bit Flips](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)
