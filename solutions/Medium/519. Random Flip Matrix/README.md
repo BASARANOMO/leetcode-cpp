@@ -6,8 +6,8 @@ Hashmap
 
 Time complexity:
 
-    - `flip()`: `O(1)`
-    - `reset()`: `O(flipped time)`
+- `flip()`: `O(1)`
+- `reset()`: `O(flipped time)`
   
 Space complexity: `O(flipped time)`
 
