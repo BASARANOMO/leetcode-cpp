@@ -4,6 +4,14 @@
 
 Iterative
 
+Time complexity: `O(n)`
+
+Space complexity: `O(1)`
+
 ## Solution2
 
 Recursive
+
+Time complexity: `O(n)`
+
+Space complexity: `O(n)`
