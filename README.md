@@ -142,6 +142,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [367. Valid Perfect Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/367.%20Valid%20Perfect%20Square)
 
+[400. Nth Digit](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/400.%20Nth%20Digit)
+
 [528. Random Pick with Weight](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/528.%20Random%20Pick%20with%20Weight)
 
 [875. Koko Eating Bananas](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/875.%20Koko%20Eating%20Bananas)
