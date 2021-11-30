@@ -12,3 +12,12 @@ Time complexity:
 Space complexity: `O(flipped time)`
 
 ## Solution2
+
+K buckets
+
+Time complexity:
+
+- `flip()`: `O(sqrt(m * n))`
+- `reset()`: `O(flipped time)`
+
+Space complexity: `O(sqrt(m * n) + flipped time)`
