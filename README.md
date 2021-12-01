@@ -200,7 +200,7 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
 
-### Pointer
+### Two pointers (or more)
 
 [11. Container With Most Water](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/11.%20Container%20With%20Most%20Water)
 
