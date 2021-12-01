@@ -146,6 +146,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [528. Random Pick with Weight](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/528.%20Random%20Pick%20with%20Weight)
 
+[786. K-th Smallest Prime Fraction](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/786.%20K-th%20Smallest%20Prime%20Fraction)
+
 [875. Koko Eating Bananas](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/875.%20Koko%20Eating%20Bananas)
 
 [1337. The K Weakest Rows in a Matrix](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
@@ -186,6 +188,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [594. Longest Harmonious Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/594.%20Longest%20Harmonious%20Subsequence)
 
+[786. K-th Smallest Prime Fraction](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/786.%20K-th%20Smallest%20Prime%20Fraction)
+
 [1833. Maximum Ice Cream Bars](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1833.%20Maximum%20Ice%20Cream%20Bars)
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
@@ -210,9 +214,11 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [295. Find Median from Data Stream](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/295.%20Find%20Median%20from%20Data%20Stream)
 
+[443. String Compression](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/443.%20String%20Compression)
+
 [633. Sum of Square Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/633.%20Sum%20of%20Square%20Numbers)
 
-[443. String Compression](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/443.%20String%20Compression)
+[786. K-th Smallest Prime Fraction](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/786.%20K-th%20Smallest%20Prime%20Fraction)
 
 ### Presum
 
@@ -277,6 +283,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [407. Trapping Rain Water II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard407.%20Trapping%20Rain%20Water%20II)
 
 [502. IPO](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/502.%20IPO)
+
+[786. K-th Smallest Prime Fraction](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/786.%20K-th%20Smallest%20Prime%20Fraction)
 
 [1094. Car Pooling](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1094.%20Car%20Pooling)
 
