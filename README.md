@@ -220,6 +220,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [786. K-th Smallest Prime Fraction](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/786.%20K-th%20Smallest%20Prime%20Fraction)
 
+[1446. Consecutive Characters](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1446.%20Consecutive%20Characters)
+
 ### Presum
 
 [304. Range Sum Query 2D - Immutable](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
