@@ -186,6 +186,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [414. Third Maximum Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/414.%20Third%20Maximum%20Number)
 
+[506. Relative Ranks](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/506.%20Relative%20Ranks)
+
 [594. Longest Harmonious Subsequence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/594.%20Longest%20Harmonious%20Subsequence)
 
 [786. K-th Smallest Prime Fraction](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/786.%20K-th%20Smallest%20Prime%20Fraction)
