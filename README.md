@@ -174,6 +174,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [881. Boats to Save People](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/881.%20Boats%20to%20Save%20People)
 
+[1005. Maximize Sum Of Array After K Negations](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations)
+
 [1221. Split a String in Balanced Strings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings)
 
 [1833. Maximum Ice Cream Bars](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1833.%20Maximum%20Ice%20Cream%20Bars)
