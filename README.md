@@ -368,6 +368,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [165. Compare Version Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/165.%20Compare%20Version%20Numbers)
 
+[383. Ransom Note](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/383.%20Ransom%20Note)
+
 [423. Reconstruct Original Digits from English](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/423.%20Reconstruct%20Original%20Digits%20from%20English)
 
 [482. License Key Formatting](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/482.%20License%20Key%20Formatting)
