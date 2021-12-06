@@ -382,6 +382,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1646. Get Maximum in Generated Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1646.%20Get%20Maximum%20in%20Generated%20Array)
 
+[1816. Truncate Sentence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1816.%20Truncate%20Sentence)
+
 ### Manhattan Distance
 
 [789. Escape The Ghosts](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/789.%20Escape%20The%20Ghosts)
