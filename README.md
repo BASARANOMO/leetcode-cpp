@@ -70,6 +70,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [50. Pow(x, n)](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/50.%20Pow(x%2C%20n))
 
+[372. Super Pow](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/372.%20Super%20Pow)
+
 [552. Student Attendance Record II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/552.%20Student%20Attendance%20Record%20II)
 
 [1137. N-th Tribonacci Number](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1137.%20N-th%20Tribonacci%20Number)
