@@ -384,6 +384,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [551. Student Attendance Record I](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/551.%20Student%20Attendance%20Record%20I)
 
+[794. Valid Tic-Tac-Toe State](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/794.%20Valid%20Tic-Tac-Toe%20State)
+
 [859. Buddy Strings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/859.%20Buddy%20Strings)
 
 [1646. Get Maximum in Generated Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1646.%20Get%20Maximum%20in%20Generated%20Array)
