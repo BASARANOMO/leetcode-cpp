@@ -180,6 +180,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [781. Rabbits in Forest](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/781.%20Rabbits%20in%20Forest)
 
+[807. Max Increase to Keep City Skyline](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/807.%20Max%20Increase%20to%20Keep%20City%20Skyline)
+
 [881. Boats to Save People](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/881.%20Boats%20to%20Save%20People)
 
 [1005. Maximize Sum Of Array After K Negations](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations)
