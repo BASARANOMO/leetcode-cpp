@@ -176,6 +176,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [561. Array Partition I](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/561.%20Array%20Partition%20I)
 
+[630. Course Schedule III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/630.%20Course%20Schedule%20III)
+
 [678. Valid Parenthesis String](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/678.%20Valid%20Parenthesis%20String)
 
 [781. Rabbits in Forest](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/781.%20Rabbits%20in%20Forest)
@@ -299,6 +301,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [407. Trapping Rain Water II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard407.%20Trapping%20Rain%20Water%20II)
 
 [502. IPO](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/502.%20IPO)
+
+[630. Course Schedule III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/630.%20Course%20Schedule%20III)
 
 [786. K-th Smallest Prime Fraction](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/786.%20K-th%20Smallest%20Prime%20Fraction)
 
