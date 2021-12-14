@@ -92,6 +92,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [207. Course Schedule](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/207.%20Course%20Schedule)
 
+[210. Course Schedule II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/210.%20Course%20Schedule%20II)
+
 [397. Integer Replacement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/397.%20Integer%20Replacement)
 
 [473. Matchsticks to Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/473.%20Matchsticks%20to%20Square)
@@ -115,6 +117,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [104. Maximum Depth of Binary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 
 [207. Course Schedule](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/207.%20Course%20Schedule)
+
+[210. Course Schedule II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/210.%20Course%20Schedule%20II)
 
 [559. Maximum Depth of N-ary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/559.%20Maximum%20Depth%20of%20N-ary%20Tree)
 
