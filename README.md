@@ -384,6 +384,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
 
+[868. Binary Gap](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/868.%20Binary%20Gap)
+
 ### Simulation
 
 [59. Spiral Matrix II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/59.%20Spiral%20Matrix%20II)
@@ -411,6 +413,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1646. Get Maximum in Generated Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1646.%20Get%20Maximum%20in%20Generated%20Array)
 
 [1816. Truncate Sentence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1816.%20Truncate%20Sentence)
+
+### Computational geometry
+
+[587. Erect the Fence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/587.%20Erect%20the%20Fence)
 
 ### Manhattan Distance
 
