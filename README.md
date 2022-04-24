@@ -22,6 +22,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [210. Course Schedule II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/210.%20Course%20Schedule%20II)
 
+[386. Lexicographical Numbers](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/386.%20Lexicographical%20Numbers)
+
 [397. Integer Replacement](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/397.%20Integer%20Replacement)
 
 [473. Matchsticks to Square](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/473.%20Matchsticks%20to%20Square)
