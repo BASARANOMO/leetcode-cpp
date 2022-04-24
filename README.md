@@ -384,6 +384,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [299. Bulls and Cows](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/299.%20Bulls%20and%20Cows)
 
+[821. Shortest Distance to a Character](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/821.%20Shortest%20Distance%20to%20a%20Character)
+
 ### Tree
 
 [94. Binary Tree Inorder Traversal](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/94.%20Binary%20Tree%20Inorder%20Traversal)
