@@ -372,6 +372,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [150. Evaluate Reverse Polish Notation](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/150.%20Evaluate%20Reverse%20Polish%20Notation)
 
+[388. Longest Absolute File Path](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/388.%20Longest%20Absolute%20File%20Path)
+
 [541. Reverse String II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/541.%20Reverse%20String%20II)
 
 [678. Valid Parenthesis String](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/678.%20Valid%20Parenthesis%20String)
