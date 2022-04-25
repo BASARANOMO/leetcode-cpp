@@ -340,6 +340,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [794. Valid Tic-Tac-Toe State](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/794.%20Valid%20Tic-Tac-Toe%20State)
 
+[806. Number of Lines To Write String](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/806.%20Number%20of%20Lines%20To%20Write%20String)
+
 [824. Goat Latin](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/824.%20Goat%20Latin)
 
 [859. Buddy Strings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/859.%20Buddy%20Strings)
