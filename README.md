@@ -398,6 +398,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [821. Shortest Distance to a Character](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/821.%20Shortest%20Distance%20to%20a%20Character)
 
+[1672. Richest Customer Wealth](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1672.%20Richest%20Customer%20Wealth)
+
 ### Tree
 
 [94. Binary Tree Inorder Traversal](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/94.%20Binary%20Tree%20Inorder%20Traversal)
