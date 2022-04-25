@@ -306,6 +306,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Reservoir sampling
 
+[382. Linked List Random Node](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/382.%20Linked%20List%20Random%20Node)
+
 [398. Random Pick Index](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/398.%20Random%20Pick%20Index)
 
 ### Set
