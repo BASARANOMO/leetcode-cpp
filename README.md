@@ -220,6 +220,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [391. Perfect Rectangle](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/391.%20Perfect%20Rectangle)
 
+[398. Random Pick Index](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/398.%20Random%20Pick%20Index)
+
 [447. Number of Boomerangs](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/447.%20Number%20of%20Boomerangs)
 
 [500. Keyboard Row](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/500.%20Keyboard%20Row)
@@ -301,6 +303,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1337. The K Weakest Rows in a Matrix](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
 
 [17.14. Smallest K LCCI](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/17.14.%20Smallest%20K%20LCCI)
+
+### Reservoir sampling
+
+[398. Random Pick Index](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/398.%20Random%20Pick%20Index)
 
 ### Set
 
