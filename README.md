@@ -346,6 +346,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [859. Buddy Strings](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/859.%20Buddy%20Strings)
 
+[883. Projection Area of 3D Shapes](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/883.%20Projection%20Area%20of%203D%20Shapes)
+
 [1646. Get Maximum in Generated Array](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1646.%20Get%20Maximum%20in%20Generated%20Array)
 
 [1816. Truncate Sentence](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/1816.%20Truncate%20Sentence)
