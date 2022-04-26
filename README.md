@@ -50,6 +50,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [210. Course Schedule II](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/210.%20Course%20Schedule%20II)
 
+[488. Zuma Game](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Hard/488.%20Zuma%20Game)
+
 [559. Maximum Depth of N-ary Tree](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Easy/559.%20Maximum%20Depth%20of%20N-ary%20Tree)
 
 [1034. Coloring A Border](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/1034.%20Coloring%20A%20Border)
