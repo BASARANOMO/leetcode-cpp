@@ -266,7 +266,7 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [556. Next Greater Element III](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/556.%20Next%20Greater%20Element%20III)
 
-### Presum
+### Prefix sum
 
 [304. Range Sum Query 2D - Immutable](https://github.com/BASARANOMO/leetcode-cpp/tree/main/solutions/Medium/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
 
